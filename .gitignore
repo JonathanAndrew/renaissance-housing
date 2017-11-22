@@ -22,6 +22,8 @@ wp-content/themes/abode-theme/assets/images
 wp-content/themes/abode-theme/assets/js/*
 !wp-content/themes/abode-theme/assets/js/custom-scripts.js
 wp-content/themes/abode-theme/template-parts/*
+!wp-content/themes/abode-theme/template-parts/header/
+wp-content/themes/abode-theme/template-parts/header/site-branding.php
 !wp-content/themes/abode-theme/template-parts/template*
 
 
